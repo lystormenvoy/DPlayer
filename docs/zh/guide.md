@@ -603,7 +603,7 @@ const dp = new DPlayer({
         type: 'flv',
     },
     pluginOptions: {
-        flv: {
+        flvjs: {
             // flv config
         },
     },
